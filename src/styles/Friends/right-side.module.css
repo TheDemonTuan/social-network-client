@@ -1,0 +1,4 @@
+.right-side {
+  height: calc(100vh - 3.5rem);
+  max-height: 100vh;
+}

@@ -2,9 +2,6 @@ import React from "react";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import Link from "next/link";
 import { LeftNavData } from "./left-nav.data";
-import Image from "next/image";
-
-const DivStyle = "";
 
 const LeftNav = () => {
   return (

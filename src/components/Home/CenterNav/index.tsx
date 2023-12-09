@@ -9,8 +9,6 @@ const CenterNav = () => {
       <Story />
       <PostAdd />
       <PostView />
-      <PostView />
-      <PostView />
     </div>
   );
 };

@@ -75,12 +75,11 @@
     @apply border-border;
   }
 
+  html,
   body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    scroll-behavior: smooth;
     @apply bg-background text-foreground;
   }
-
-  .home-leftnav-div {
-    @apply flex justify-start items-center gap-4 p-1 rounded-full hover:bg-black/50
-  }
-  
 }
